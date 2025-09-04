@@ -1,4 +1,4 @@
-#What is Terminal
+# What is Terminal
 Terminal is a text based input and output environment
 Advantages of using terminal-
 1. Installing packages
